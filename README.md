@@ -3,7 +3,7 @@
 ## 1. Introduction & Business Objective
 In the highly competitive Canadian digital banking sector, understanding public perception is crucial for strategic decision-making. This project was initiated to move beyond traditional metrics and tap into the authentic, unsolicited "voice of the customer."
 
-The primary business objective was to analyze public sentiment towards major Canadian digital-first financial brands on the social media platform Reddit. The goal was to identify competitive strengths and weaknesses, quantify brand perception, and uncover the specific themes driving user frustration and satisfaction.
+**The primary business objective was to analyze public sentiment towards major Canadian digital-first financial brands on the social media platform Reddit.** The goal was to identify competitive strengths and weaknesses, quantify brand perception, and uncover the specific themes driving user frustration and satisfaction.
 
 ## 2. Data and Methodology
 The analysis is based on a comprehensive dataset of 31,668 public mentions (posts and comments) collected from Reddit. The data was sourced from high-traffic Canadian finance subreddits (e.g., r/PersonalFinanceCanada) and brand-specific communities (e.g., r/Wealthsimple) over the last 12 months.
@@ -24,12 +24,12 @@ The analysis produced several key outputs that quantify and visualize the public
 ### A. Brand Performance Ranking
 To create a fair comparison of brand sentiment, we calculated the "Positive Sentiment Share" – the percentage of all emotional comments (Positive or Negative) that are positive.
 
-**Finding:** The ranking clearly shows EQ Bank as the market leader in customer satisfaction, as it is the only brand with a net positive sentiment score. Koho and Neo Financial rank at the bottom, indicating significant challenges with user perception.
+**Finding:** The ranking clearly shows **EQ Bank** as the market leader in customer satisfaction, as it is the only brand with a net positive sentiment score. **Koho** and **Neo Financial** rank at the bottom, indicating significant challenges with user perception.
 
 ### B. Comparative Pain Point Analysis
 The thematic analysis provides the most strategic insight: a "Pain Point Profile" for each competitor. This chart shows what percentage of each brand's negative feedback is dedicated to a specific theme.
 
-**Finding:** The data reveals a unique "fingerprint" of weaknesses for each brand. For example, Koho's negative sentiment is overwhelmingly driven by Customer Service Issues (37%), while EQ Bank's primary pain point is Security & Fraud Concerns (26%). This allows for a highly nuanced understanding of the competitive landscape.
+**Finding:** The data reveals a unique "fingerprint" of weaknesses for each brand. For example, **Koho's** negative sentiment is overwhelmingly driven by **Customer Service Issues (37%)**, while **EQ Bank's** primary pain point is **Security & Fraud Concerns (26%)**. This allows for a highly nuanced understanding of the competitive landscape.
 
 ## 4. Conclusion & Strategic Implications
 The data tells a clear and consistent story. For the modern Canadian banking consumer, the fundamentals of trust, reliability, and support are paramount.
