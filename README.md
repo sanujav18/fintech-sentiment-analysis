@@ -10,10 +10,10 @@ The analysis is based on a comprehensive **dataset of 31,668 public mentions** (
 
 The project followed a multi-stage data science workflow:
 
-  **Data Acquisition:** A custom Python script using the PRAW library was developed to scrape all relevant data. This script included robust error handling to manage Reddit's API rate limits, ensuring a complete and unbiased data pull.
-  **Data Cleaning:** The raw text was meticulously cleaned and preprocessed using the Pandas library to prepare it for analysis. This involved removing duplicates, URLs, and special characters, and standardizing the text.
-  **Sentiment Analysis:** We employed a pre-trained Natural Language Processing (NLP) model from Hugging Face (cardiffnlp/twitter-roberta-base-sentiment) to classify each of the 27,008 unique comments into Positive, Negative, or Neutral sentiment categories.
-  **Thematic Analysis:** To gain deeper insights into the drivers of negative sentiment, we used a sophisticated Zero-Shot Classification model (facebook/bart-large-mnli) to categorize all 6,000+ negative comments into seven key business themes, such as 'Customer Service Issues' and 'Security & Fraud Concerns'.
+**Data Acquisition:** A custom Python script using the PRAW library was developed to scrape all relevant data. This script included robust error handling to manage Reddit's API rate limits, ensuring a complete and unbiased data pull.<br>
+ **Data Cleaning:** The raw text was meticulously cleaned and preprocessed using the Pandas library to prepare it for analysis. This involved removing duplicates, URLs, and special characters, and standardizing the text.<br>
+**Sentiment Analysis:** We employed a pre-trained Natural Language Processing (NLP) model from Hugging Face (cardiffnlp/twitter-roberta-base-sentiment) to classify each of the 27,008 unique comments into Positive, Negative, or Neutral sentiment categories.<br>
+**Thematic Analysis:** To gain deeper insights into the drivers of negative sentiment, we used a sophisticated Zero-Shot Classification model (facebook/bart-large-mnli) to categorize all 6,000+ negative comments into seven key business themes, such as 'Customer Service Issues' and 'Security & Fraud Concerns'.
 
 ## 3. Key Findings & Visualizations
 The analysis produced several key outputs that quantify and visualize the public perception of each brand.
