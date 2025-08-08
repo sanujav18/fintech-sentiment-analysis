@@ -1,5 +1,7 @@
 # A Sentiment and Thematic Analysis of Canada's Digital Banking Landscape
 
+![Bank Logos](images/bank_logos.png)
+
 ## 1. Introduction & Business Objective
 In the highly competitive Canadian digital banking sector, understanding public perception is crucial for strategic decision-making. This project was initiated to move beyond traditional metrics and tap into the authentic, unsolicited "voice of the customer."
 
