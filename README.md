@@ -6,7 +6,7 @@ In the highly competitive Canadian digital banking sector, understanding public 
 **The primary business objective was to analyze public sentiment towards major Canadian digital-first financial brands on the social media platform Reddit.** The goal was to identify competitive strengths and weaknesses, quantify brand perception, and uncover the specific themes driving user frustration and satisfaction.
 
 ## 2. Data and Methodology
-The analysis is based on a comprehensive dataset of 31,668 public mentions (posts and comments) collected from Reddit. The data was sourced from high-traffic Canadian finance subreddits (e.g., r/PersonalFinanceCanada) and brand-specific communities (e.g., r/Wealthsimple) over the last 12 months.
+The analysis is based on a comprehensive **dataset of 31,668 public mentions** (posts and comments) collected from Reddit. The data was sourced from high-traffic Canadian finance subreddits (e.g., r/PersonalFinanceCanada) and brand-specific communities (e.g., r/Wealthsimple) over the last 12 months.
 
 The project followed a multi-stage data science workflow:
 
