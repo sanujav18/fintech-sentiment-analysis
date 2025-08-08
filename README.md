@@ -19,12 +19,22 @@ The project followed a multi-stage data science workflow:
 The analysis produced several key outputs that quantify and visualize the public perception of each brand.
 
 ### A. Brand Performance Ranking
+
+![Positive vs Negative Sentiment](images/positive_vs_negative_sentiment.png)
+
 To create a fair comparison of brand sentiment, we calculated the "Positive Sentiment Share" – the percentage of all emotional comments (Positive or Negative) that are positive.
+
+![Brand Sentiment Ranking](images/brand_sentiment_ranking.png)
 
 **Finding:** The ranking clearly shows **EQ Bank** as the market leader in customer satisfaction, as it is the only brand with a net positive sentiment score. **Koho** and **Neo Financial** rank at the bottom, indicating significant challenges with user perception.
 
 ### B. Comparative Pain Point Analysis
+
+![Comparative Negative Themes](images/comparative_negative_themes.png)
+
 The thematic analysis provides the most strategic insight: a "Pain Point Profile" for each competitor. This chart shows what percentage of each brand's negative feedback is dedicated to a specific theme.
+
+![Comparative Negative Themes Table](images/comparative_negative_themes_table.png)
 
 **Finding:** The data reveals a unique "fingerprint" of weaknesses for each brand. For example, **Koho's** negative sentiment is overwhelmingly driven by **Customer Service Issues (37%)**, while **EQ Bank's** primary pain point is **Security & Fraud Concerns (26%)**. This allows for a highly nuanced understanding of the competitive landscape.
 
